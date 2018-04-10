@@ -1,0 +1,13 @@
+.film-item{
+  flex-grow: 0;
+  margin: 60px;
+  width: 700px;
+}
+
+.film-title{
+  background-color: aquamarine;
+}
+
+.film-description{
+  background-color: cadetblue;
+}
